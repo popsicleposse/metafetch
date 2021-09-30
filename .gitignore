@@ -1,0 +1,6 @@
+metafetch
+*.o
+*.s
+images/
+metadata.json
+.DS_Store

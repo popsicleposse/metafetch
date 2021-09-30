@@ -1,0 +1,5 @@
+{
+    "imageAddress": "bafybeigv5sz6urvi527ettreqaunsfvp7ffvighf3xwvoo6e2py7st446u",
+    "metadataAddress": "bafybeia3p7fmmkuxrgwqe6t5kwqm2zc7vw5njwndsih2ti4yiv6wlz7voy",
+    "baseUri": "http://127.0.0.1:8080/ipfs/%s/"
+}
